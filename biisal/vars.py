@@ -7,8 +7,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 bot_name = "Yasmin"
-bisal_channel = ""
-bisal_grp = ""
+bisal_channel = "http://t.me/ANUSHKA_SEN_bot"
+bisal_grp = "http://t.me/ANUSHKA_SEN_bot"
 
 class Var(object):
     MULTI_CLIENT = False
